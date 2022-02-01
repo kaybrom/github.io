@@ -1,0 +1,116 @@
+
+
+
+
+.parent {
+  background-color: #0000;
+  margin: 5px ;
+  padding: 5px ;
+  display: flex;
+  flex-flow: nowrap row;
+  justify-content: center;
+
+
+
+}
+.div1 {
+  background-color: #0000;
+  margin: 5px ;
+  padding: 5px;
+  width: 200px;
+  font-size: 35px;
+
+
+
+}
+
+.div2 {
+  background-color: #0000
+  margin: 5px ;
+  width: 200px;
+  font-size: 35px;
+
+}
+
+.div3 {
+  background-color: #0000;
+  margin: 5px ;
+  height: 150px;
+  width: 200px;
+  font-size: 35px;
+
+
+}
+
+.div4 {
+  background-color: #0000;
+  margin: 5px  ;
+  width: 200px;
+  height: 150px;
+  font-size: 35px;
+
+
+}
+
+.div5 {
+  background-color: #0000;
+  margin: 5px ;
+  width: 200px;
+  font-size: 35px;
+}
+.tekst {
+
+  width: auto;
+  height: 1200px;
+  font-size: 30px;
+  margin: 50px;
+  padding: 100px;
+  background-color: #8888;
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  text-decoration-line:underline;
+  text-decoration: underline;
+  flex-flow: column; ; */ bij column komt tekst onder elkaar bij row komt alles naast elkaar, row reverse alles omgekeerd naast elkaar en bij column reverse alles omgekeerd van onder naar boven*/
+}
+
+.tekst1 {
+  height: 250px;
+  margin: 20px 0px;
+  width: auto;
+  background-color: #0000;
+  justify-content: center;
+
+
+}
+.tekst2 {
+  height: 250px;
+  margin: 20px 0px;
+  width: auto;
+  background-color: #0000;
+}
+.tekst3 {
+  height: 250px;
+  width: auto;
+  background-color: #0000;
+  margin: 20px 0px;
+}
+.tekst4 {
+  height: 250px;
+  margin: 20px 0px;
+  width: auto;
+  background-color: #0000;
+}
+.tekst5 {
+  height: 250px;
+  margin: 20px 0px;
+  width: auto;
+  background-color: #0000;
+}
+.tekst6 {
+  height: 250px;
+  margin: 20px 0px;
+  width: auto;
+  background-color: #0000;
+}
